@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { TextInput, View, StyleSheet, Alert,useWindowDimensions,KeyboardAvoidingView,ScrollView } from 'react-native';
 
 import PrimaryButton from '../components/ui/PrimaryButton';
-import Title from '../components/ui/Title';
-import Colors from '../constants/colors';
+import Title from '../components/ui/Title.andriod';
+import Colors from '../constants/colors.ios';
 import Card from '../components/ui/Card';
 import InstructionText from '../components/ui/InstructionText';
 
